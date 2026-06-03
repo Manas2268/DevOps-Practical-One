@@ -1,1 +1,1 @@
-Print("This is Devops practical no. 01")
+print("This is Devops practical no. 01")
